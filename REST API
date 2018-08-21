@@ -4,4 +4,3 @@ response type - XML/JSON
 hhtp/https - POST, GET, PUT, PATCH, DELETE
 
 1. designated to take advantages of existing protocol
-2. REST can used over http protocol
